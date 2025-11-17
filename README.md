@@ -41,6 +41,7 @@ Data are passed through 3 layers:
     </br>
   Power BI Semantic Model
 </p>
+
 Defined Relationships:
 | From Table (Column)                  | Relationship Type | To Table (Column)                     |
 |-------------------------------------|-------------------|---------------------------------------|
