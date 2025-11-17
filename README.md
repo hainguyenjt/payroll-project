@@ -3,7 +3,7 @@
 This project showcases a payroll data warehouse. The main SQL script transforms and centralizes payroll data, which are then connected to Power BI for analytics to support HR and finance operations.
 
 ## Table of Contents
-- [Payroll Data Pipeline](#payroll-data-pipeline)
+- [Payroll Project](#payroll-project)
   - [Table of Contents](#table-of-contents)
   - [Data Source](#data-source)
   - [Architecture](#architecture)
