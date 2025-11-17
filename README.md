@@ -35,7 +35,7 @@ Data are passed through 3 layers:
   Project Architecture
 </p>
 
-## Semantic Model:
+## Semantic Model
 <p align="center">
     <img src="Power BI/powerbi.png" alt="powerbi" style="border-radius: 10px;">
     </br>
