@@ -63,6 +63,7 @@ Defined Relationships:
 | `dim_date(date_pk)`| One to Many      | `fact_employee_leaves(leave_start_date_fk)`          | 
 
 ## Business Insights:
+
 ### Overview
 <p align="center">
     <img src="Power BI/Payroll_Dashboard-1.png" alt="Payroll Remediation" style="border-radius: 10px;">
@@ -70,6 +71,7 @@ Defined Relationships:
   Payroll Remediation
 </p>
 ...
+
 ### Employee Details
 <p align="center">
     <img src="Power BI/Payroll_Dashboard-2.png" alt="Employee Analysis" style="border-radius: 10px;">
@@ -77,5 +79,4 @@ Defined Relationships:
   Employee Analysis
 </p>
 ...
-</p>
 
